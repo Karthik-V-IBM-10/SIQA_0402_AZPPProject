@@ -22,12 +22,6 @@ packages:
   gitUrl: https://github.com/prabhakarsag
   gitUsername: prabhakarsag
   gitBranch: main
-- name: JMSTest
-  version: "1.0"
-  gitServerName: SIQAPsur
-  gitUrl: https://github.com/prabhakarsag
-  gitUsername: prabhakarsag
-  gitBranch: main
 - name: SIQAJDBCAdapterTests
   gitServerName: SIQA_kvv_wm_io
   gitUrl: https://github.webmethods.io/mjan
