@@ -25,6 +25,11 @@ packages:
   gitUrl: https://github.com/prabhakarsag
   gitUsername: prabhakarsag
   gitBranch: main
+- name: JMSTest
+  gitServerName: SIQAPsur
+  gitUrl: https://github.com/prabhakarsag
+  gitUsername: prabhakarsag
+  gitBranch: main
 services:
 - serviceName: project.siqa_0402_azpp.integrations:SIQAAdapterFlow
   packages:
